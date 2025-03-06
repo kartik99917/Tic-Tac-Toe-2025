@@ -26,7 +26,7 @@
     border-radius: 1rem;
     border: none;
 };
-#new-btn{
+#new-button{
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #191913;
@@ -34,7 +34,15 @@
     border-radius: 1rem;
     border: none;
 };
-#msg{
+#message{
     color: #ffffc7;
     font-size: 5vmin;
+};
+.message-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
 };
