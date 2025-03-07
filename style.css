@@ -5,7 +5,7 @@
 h1{
     font-size: 3rem;
     color: #191913;
-    background-color: rgb(76, 40, 110);
+    background-color: purple;
     color: white;
     padding: 15px;
     border-radius: 0%;
@@ -35,26 +35,26 @@ body{
     width: 18vmin;
     box-shadow: black;
     font-size: 80px;
-    color: black;
+    color: purple;
     background-color: #FFDFEF;
 }
 #reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
+    background-color: purple;
     color: #fff;
     border: none;
 }
 #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
+    background-color: purple;
     color: #fff;
     border-radius: 1rem;
     border: none;
 }
 #msg{
-    color: #ffffc7;
+    color: purple;
     font-size: 5vmin;
 }
 .msg-container{
