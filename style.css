@@ -2,6 +2,13 @@
     margin: 0;
     padding: 0;
 }
+h1{
+    font-size: 3rem;
+    color: #191913;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
 body{
     background-color: #D69ADE;
     text-align: center;
