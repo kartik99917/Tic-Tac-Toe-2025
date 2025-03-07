@@ -5,9 +5,11 @@
 h1{
     font-size: 3rem;
     color: #191913;
-    background-color: black;
+    background-color: rgb(76, 40, 110);
     color: white;
-    padding: 1rem;
+    padding: 15px;
+    border-radius: 0%;
+    text-align: center;
 }
 body{
     background-color: #D69ADE;
