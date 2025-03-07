@@ -48,7 +48,7 @@ boxes.forEach((box) => {
 });
 
 const gameDraw = () => {
-  msg.innerText = `Game was a Draw.`;
+  msg.innerText = `GGs.`;
   msgContainer.classList.remove("hide");
   disableBoxes();
 };
@@ -67,7 +67,7 @@ const enableBoxes = () => {
 };
 
 const showWinner = (winner) => {
-  msg.innerText = `Congratulations, Winner is ${winner}`;
+  msg.innerText = `WINNER IS: ${winner}`;
   msgContainer.classList.remove("hide");
   disableBoxes();
 };
