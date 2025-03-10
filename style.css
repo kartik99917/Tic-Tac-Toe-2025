@@ -3,20 +3,21 @@
     padding: 0;
 }
 h1{
-    font-size: 3rem;
-    color: #191913;
+    font-size: 65px;
+    width: 100%;
     background-color: purple;
     color: white;
-    padding: 15px;
+    padding: 25px 15px 25px 15px;
     border-radius: 0%;
-    text-align: center;
+    
+    margin: 10px;
 }
 body{
     background-color: #D69ADE;
     text-align: center;
 }
 .container{
-    height: 70vh;
+    height: 65vh;
     display: flex;  
     justify-content: center;
     align-items: center;
